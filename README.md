@@ -1,18 +1,32 @@
 ![banner](banner.png)
 
-## Hi there 👋
+## What's up? 
+
+My name is Danny and I'm a data engineer.
+
+I've spent years trying to focus on one thing. Turns out that I don't want to. 
+
+There is no niche here, just whatever I'm into at the moment. I let the ADHD win and follow the momentum from project to project.  
+
+## Github Statistics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=dannyvilchez&theme=dracula" width="62%" />
+<br>
+
+## Certifications
+
+![az900](az900.png)
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=X&logoColor=white"/></a>
+<a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!--
-**dannyvilchez/dannyvilchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.dannyvilchez.com"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+ADD Blog
+--> 
