@@ -15,7 +15,7 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 ## Github Statistics
 
-<img style="padding-bottom=10px" src="https://github-readme-streak-stats.herokuapp.com/?user=dannyvilchez" alt="Gift's LangStat" /><div style="margin=10px"></div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez" width="30%" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dannyvilchez" alt="Gift's LangStat" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez" width="30%" />
 <br>
 
 
