@@ -1,5 +1,3 @@
-![banner](banner.png)
-
 ## What's up? 
 
 My name is Danny and I'm a data engineer.
@@ -10,7 +8,7 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 ## Github Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=dannyvilchez&theme=dracula" width="62%" />
+img src="https://github-readme-stats.vercel.app/api?username=dannyvilchez&theme=dracula" width="60%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez&theme=dracula" width="30%" /><
 <br>
 
 ## Certifications
@@ -21,7 +19,7 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 ### Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/static/v1?logo=chrome&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"/></a>
 <a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/?style=flat&logo=X&logoColor=white"/></a>
 <a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
