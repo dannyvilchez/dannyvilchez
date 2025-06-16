@@ -15,7 +15,7 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 <p align="center">
 <a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
-
+<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/style=flat&logo=X&logoColor=white"/></a>
 </p>
 
 
@@ -28,6 +28,6 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 <!--
 <a href="https://www.dannyvilchez.com"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 ADD Blog
-<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/?style=flat&logo=X&logoColor=white"/></a>
+
 <a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/?style=flat&logo=Gmail&logoColor=white"/></a>
 --> 
