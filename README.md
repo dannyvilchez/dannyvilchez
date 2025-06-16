@@ -18,12 +18,12 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 ![az900](az900.png)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=X&logoColor=white"/></a>
-<a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/dannyvilchez?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/?style=flat&logo=X&logoColor=white"/></a>
+<a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!--
