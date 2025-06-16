@@ -13,10 +13,10 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 ## Connect with Me
 
-
+<a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/Email-Red&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
 <a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/%E2%80%8E-black?logo=X&logoColor=white" /></a>
-<a href="mailto:hello@dannyvilchez.com"><img src="https://img.shields.io/badge/Email-Red&logo=Gmail&logoColor=white"/></a>
+
 
 
 ### Certifications
