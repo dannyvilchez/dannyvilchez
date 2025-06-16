@@ -8,7 +8,7 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 ## Github Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=dannyvilchez&theme=dracula" width="60%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez&theme=dracula" width="30%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannyvilchez" alt="Gift's LangStat" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvilchez&theme=dracula" width="30%" />
 <br>
 
 ## Connect with Me
