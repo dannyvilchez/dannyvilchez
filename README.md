@@ -15,7 +15,7 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 <p align="center">
 <a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
-<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/%20?logo=X"/></a>
+<a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/%20-black?logo=X"/></a>
 </p>
 
 
