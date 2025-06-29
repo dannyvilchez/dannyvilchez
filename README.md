@@ -12,12 +12,10 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 <a href="https://linkedin.com/in/vilchezdanny"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
 <a href="https://x.com/_dannyvilchez"><img src="https://img.shields.io/badge/%E2%80%8E-black?logo=X&logoColor=white" /></a>
 
-
+<!--
 ## Github Statistics
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dannyvilchez)](https://git.io/streak-stats)
-
+--> 
 ### Certifications
 
 <img src="az900.png" alt="AZ-900 Certification" height="140em" />
