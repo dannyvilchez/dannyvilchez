@@ -15,9 +15,8 @@ There is no niche here, just whatever I'm into at the moment. I let the ADHD win
 
 ## Github Statistics
 
-<p aligh="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dannyvilchez)](https://git.io/streak-stats)
-</p>
 
 ### Certifications
 
